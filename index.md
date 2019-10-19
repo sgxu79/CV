@@ -9,18 +9,22 @@ title: Steven Xu's CV
 </div>
 
 
-## Currently
+## Summary
 
-Standing on the shoulders of giants
+Currently a third year PhD candidate in Statistics. Research interests include **Bayesian Inference**, **Quantile Regression** and **Machine Learning**. 
+Adept in R, SAS and Python with experience in leading multiple research/analytical projects. Excellent interpersonal and communicating skills as well as 
+proven academic writing skills. 
 
-### Specialized in
+## Skills
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+R/Rstudio, SAS/IML, Python, Julia, Matlab, {% raw %}{::nomarkdown}
+    <div>
+    $$
+    \latex
+    $$
+    </div>
+{:/}{% endraw %}
 
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
