@@ -3,11 +3,9 @@ layout: cv
 title: Steven Xu's CV
 ---
 # Steven Xu
-Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="sgxu79.github.io">My personal webpage</a>
 </div>
 
 
