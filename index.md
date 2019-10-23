@@ -5,7 +5,7 @@ title: Steven Xu's CV
 # Steven Xu
 
 <div id="webaddress">
-<a href="https://sgxu79.github.io">My personal webpage</a> ◇ Email: sgxu[at]ncsu.edu
+🌐 <a href="https://sgxu79.github.io">https://sgxu79.github.io</a> ◇ 📧 sgxu[at]ncsu.edu
 </div> 
 
 
@@ -21,9 +21,9 @@ proven academic writing skills.
 `Aug. 2017 - May. 2022`
 __North Carolina State University | Raleigh, NC__
 
-- Doctor of Philosophy: Statistics
-- _**Advisor**_: Brian Reich
-- Member of American Statistical Association
+-     Doctor of Philosophy: Statistics
+-     _**Advisor**_: Brian Reich
+-     Member of American Statistical Association
 
 `Aug. 2013 - Jun. 2017`
 __University of Washington | Seattle, WA__
