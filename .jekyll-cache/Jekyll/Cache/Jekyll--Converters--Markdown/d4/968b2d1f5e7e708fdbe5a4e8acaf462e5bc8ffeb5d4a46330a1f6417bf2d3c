@@ -1,0 +1,116 @@
+I"�<h1 id="steven-xu">Steven Xu</h1>
+
+<div id="webaddress">
+<a href="https://sgxu79.github.io">My personal webpage</a> | Email: sgxu[at]ncsu.edu
+</div>
+
+<h2 id="summary">Summary</h2>
+
+<p>Currently a third year PhD candidate in Statistics. Research interests include <strong>Bayesian Inference</strong>, <strong>Quantile Regression</strong> and <strong>Machine Learning</strong>. 
+Adept in R, SAS and Python with experience in leading multiple research/analytical projects. Excellent interpersonal and communicating skills as well as 
+proven academic writing skills.</p>
+
+<h2 id="education">Education</h2>
+
+<p><code class="highlighter-rouge">Aug. 2017 - May. 2022</code>
+<strong>North Carolina State University | Raleigh, NC</strong></p>
+
+<ul>
+  <li>Doctor of Philosophy: Statistics</li>
+  <li><em><strong>Advisor</strong></em>: Brian Reich</li>
+  <li>Member of American Statistical Association</li>
+</ul>
+
+<p><code class="highlighter-rouge">Aug. 2013 - Jun. 2017</code>
+<strong>University of Washington | Seattle, WA</strong></p>
+
+<ul>
+  <li>Bachelor of Science: Statistics</li>
+  <li>Minors: Applied Mathematics, Mathematics</li>
+  <li>Dean’s list 2015 - 2017</li>
+</ul>
+
+<h2 id="skills">Skills</h2>
+
+<p>R/Rstudio, SAS/IML, Python, Julia, Matlab, LaTeX, Markdown</p>
+
+<h2 id="certificate">Certificate</h2>
+
+<ul>
+  <li>• Certified Specialist: Base programming using SAS 9.4</li>
+  <li>• Certified Professional: Advanced programming using SAS 9.4</li>
+</ul>
+
+<h2 id="experience">Experience</h2>
+
+<h3 id="career">Career</h3>
+
+<p><code class="highlighter-rouge">May 2019 - Present</code>
+<strong>Internet of Things Intern | SAS Institute | Cary, NC</strong></p>
+
+<ul>
+  <li>• Researching on video foreground extraction using <strong>Robust Principal Component Analysis (RPCA)</strong>.</li>
+  <li>• Collaborating with NASA and applied RPCA on detecting wildfire in Amazon from satellite images.</li>
+  <li>• Wrote Python code to visualize and process hyperspectral images.</li>
+</ul>
+
+<p><code class="highlighter-rouge">Aug. 2019 - Present</code>
+<strong>Head Teaching Assistant | North Carolina State University | Raleigh, NC</strong></p>
+
+<ul>
+  <li>• Supervising 19 instructors and graders for an introductory statistics course.</li>
+  <li>• Maintaining course website accessed by over 500 undergraduate students.</li>
+</ul>
+
+<p><code class="highlighter-rouge">May 2019 - Jul.2019</code>
+<strong>Biostatistics Intern | UNC Center for AIDS Research | Chapel Hill, NC</strong></p>
+
+<ul>
+  <li>• Researched on transporting outcomes from randomized trials to target population using bootstrap multiple imputation.</li>
+  <li>• Analyzed trial and cohort data to investigate correlation between suicidal thoughts and Efavirenz intake.</li>
+  <li>• Co-authored a manuscript and wrote R code for the analysis.</li>
+</ul>
+
+<p><code class="highlighter-rouge">Aug. 2017 - May 2019</code>
+<strong>Lecturer | North Carolina State University | Raleigh, NC</strong></p>
+
+<ul>
+  <li>• Taught 3 sessions (35 students each) of undergraduate statistics course.</li>
+  <li>• Delivered entry-level concepts to students from various backgrounds with little or no exposure to statistics.</li>
+  <li>• Revamped course structure to help students learn in a more efficient and interactive way.</li>
+</ul>
+
+<h3 id="research">Research</h3>
+
+<p><code class="highlighter-rouge">Jan. 2019 - Present</code>
+<strong>Simultaneous Quantile Regression with Bayesian Neural Network</strong></p>
+
+<ul>
+  <li>• A thesis project focusing on <strong>Bayesian nonparametric</strong> method for simultaneous quantile estimation.</li>
+  <li>• Proposed innovative model that combines <strong>monotonic spline</strong> and <strong>ReLU network</strong>.</li>
+  <li>• Wrote Hamiltonian Monte Carlo simulation code using Python, R and STAN.</li>
+</ul>
+
+<p><code class="highlighter-rouge">May 2019 - Aug.2019</code>
+<strong>Multivariate anomaly detection using Canonical Variate Analysis</strong></p>
+
+<ul>
+  <li>• Investigated modern methods on real-time process monitoring and anomaly detection.</li>
+  <li>• Researched on classical and kernel canonical variate analysis (CVA) and wrote prototype code in SAS/IML.</li>
+  <li>• Achieved over 98% detection rate on two chemical process control benchmark datasets.</li>
+</ul>
+
+<p><code class="highlighter-rouge">Aug. 2018 - Dec. 2018</code>
+<strong>Robust Bayesian Forecasting with State-Space models</strong></p>
+
+<ul>
+  <li>• Leader of a group project targeting innovative Bayesian imputation and forecasting method for water usage data.</li>
+  <li>• Conducted extensive literature review on Bayesian time series and hierarchical modelling.</li>
+  <li>• Proposed a method that is proven to be more flexible and can better forecast non-gaussian time series.</li>
+</ul>
+
+<!-- ### Footer
+
+Last updated: Oct 2019 -->
+
+:ET

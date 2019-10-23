@@ -5,7 +5,7 @@ title: Steven Xu's CV
 # Steven Xu
 
 <div id="webaddress">
-<a href="https://sgxu79.github.io">My personal webpage</a> | Email: sgxu[at]ncsu.edu
+<a href="https://sgxu79.github.io">My personal webpage</a> ◇ Email: sgxu[at]ncsu.edu
 </div> 
 
 
