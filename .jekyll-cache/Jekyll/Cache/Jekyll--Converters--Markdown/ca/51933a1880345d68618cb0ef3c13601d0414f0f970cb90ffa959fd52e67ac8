@@ -1,0 +1,129 @@
+I"<h1 id="steven-xu">Steven Xu</h1>
+
+<div id="webaddress">
+🌐 <a href="https://stevengxu.github.io">https://stevengxu.github.io</a> ◇ 📧 sgxu[at]ncsu.edu
+</div>
+
+<h2 id="summary">Summary</h2>
+
+<p>Fifth year Ph.D. student in Statistics. Research interests include Bayesian Non-parametrics, Causal Inference, and Anomaly Detection. 
+Adept in R, Python and SAS with experience in leading multiple projects. Excellent verbal, communication and writing skill.</p>
+
+<h2 id="education">Education</h2>
+
+<p><code class="highlighter-rouge">Aug. 2017 - May. 2022</code>
+<strong>North Carolina State University | Raleigh, NC</strong></p>
+
+<ul>
+  <li>Doctor of Philosophy: Statistics</li>
+  <li><em><strong>Advisor</strong></em>: Dr. Brian Reich</li>
+  <li>Member of American Statistical Association</li>
+</ul>
+
+<p><code class="highlighter-rouge">Aug. 2013 - Jun. 2017</code>
+<strong>University of Washington | Seattle, WA</strong></p>
+
+<ul>
+  <li>Bachelor of Science: Statistics</li>
+  <li>Minors: Applied Mathematics, Mathematics</li>
+  <li>Dean’s list 2015 - 2017</li>
+</ul>
+
+<h2 id="skills">Skills</h2>
+
+<ul>
+  <li>R, Python (NumPy, pandas, scikit-learn, TensorFlow), SQL, SAS, Julia, MATLAB, Java, Git, LaTeX</li>
+</ul>
+
+<h2 id="certificate">Certificate</h2>
+
+<ul>
+  <li>• Neural Networks and Deep Learning</li>
+  <li>• Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization</li>
+  <li>• Convolutional Neural Networks</li>
+  <li>• Sequence Models</li>
+  <li>• Certified Specialist: Base programming using SAS 9.4</li>
+  <li>• Certified Professional: Advanced programming using SAS 9.4</li>
+</ul>
+
+<h2 id="experience">Experience</h2>
+
+<h3 id="career">Career</h3>
+
+<p><code class="highlighter-rouge">Jun. 2021 - Aug. 2021</code>
+<strong>Data Scientist Intern, AI Model Development | Wells Fargo | Remote</strong></p>
+
+<ul>
+  <li>• Built a supervised classifier to detect human/bot login attempt from blacklisted IPs.</li>
+  <li>• Researched on cutting-edge methods for highly imbalanced classification (2% event rate).</li>
+  <li>• Implemented <strong>Random Undersampling Boosting</strong> model that improves out-of-time KPI by 20%.</li>
+</ul>
+
+<p><code class="highlighter-rouge">May 2019 - Present</code>
+<strong>Machine Learning Intern, Internet of Things | SAS Institute | Cary, NC</strong></p>
+
+<ul>
+  <li>• Research on Machine Learning algorithms for analyzing streaming image data.</li>
+  <li>• Apply online outlier detection algorithms to video surveillance and remote sensing problems.</li>
+  <li>• Participate in DevOps of SAS procedures for statistical monitoring.</li>
+</ul>
+
+<p><code class="highlighter-rouge">May 2019 - Jul.2019</code>
+<strong>Quantitative Intern, Biometrics | UNC Center for AIDS Research | Chapel Hill, NC</strong></p>
+
+<ul>
+  <li>• Researched on transporting outcomes from randomized trials to target population using <strong>Bootstrap Multiple Imputation</strong>.</li>
+  <li>• Investigated the causal effect of Efavirenz intake, an HIV antiviral, on development of suicidal thoughts.</li>
+  <li>• Co-authored a journal paper and wrote R pipeline for the analysis.</li>
+</ul>
+
+<p><code class="highlighter-rouge">Aug. 2017 - May 2021</code>
+<strong>Graduate Student Lecturer | North Carolina State University | Raleigh, NC</strong></p>
+
+<ul>
+  <li>• Taught 3 sessions (35 students each) of undergraduate statistics course.</li>
+  <li>• Delivered entry-level concepts to students from various backgrounds with little or no exposure to statistics.</li>
+</ul>
+
+<h3 id="research">Research</h3>
+
+<p><code class="highlighter-rouge">Jan. 2021 - Present</code>
+<strong>Bayesian Non-parametric Estimation of Causal Quantile Effects</strong></p>
+
+<ul>
+  <li>• Proposed a novel approach for causal inference on quantiles in the presence of many confounders.</li>
+  <li>• Approximated high-dimensional conditional outcome distribution using Bayesian Neural Network.</li>
+</ul>
+
+<p><code class="highlighter-rouge">Sep. 2020 - Present</code>
+<strong>Online Blind Separation of High Frequency Sources</strong></p>
+
+<ul>
+  <li>• Researched on online and batch algorithms of independent component analysis (ICA).</li>
+  <li>• Applied ICA to recover source signals from mixtures, such as speech, music, and image data.</li>
+  <li>• Implemented an ICA-based statistic for time series change point detection.</li>
+</ul>
+
+<p><code class="highlighter-rouge">Sep. 2019 - Aug. 2020</code>
+<strong>Online Unsupervised Wildfire Detection using Satellite Images</strong></p>
+
+<ul>
+  <li>• Proposed novel wildfire detection and cloud masking algorithms for multispectral satellite imagery.</li>
+  <li>• Successfully monitored recent California wildfires, achieving competitive precision.</li>
+  <li>• Co-authored a conference paper and wrote Python pipeline for the analysis.</li>
+</ul>
+
+<p><code class="highlighter-rouge">Jan. 2019 - Aug. 2021</code>
+<strong>Bayesian Non-parametric Quantile Process Regression</strong></p>
+
+<ul>
+  <li>• Proposed a novel method for simultaneous estimation of non-crossing, non-linear quantile curves.</li>
+  <li>• Implemented model agnostics tool to extract marginal quantile effects from black-box regression model.</li>
+  <li>• Identified pregnancy-related factors that are influential on low and high birth weight.</li>
+</ul>
+
+<!-- ### Footer
+
+Last updated: Aug. 2021 -->
+
+:ET
