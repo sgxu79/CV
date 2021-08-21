@@ -5,15 +5,14 @@ title: Steven Xu's CV
 # Steven Xu
 
 <div id="webaddress">
-🌐 <a href="https://sgxu79.github.io">https://sgxu79.github.io</a> ◇ 📧 sgxu[at]ncsu.edu
+🌐 <a href="https://stevengxu.github.io">https://stevengxu.github.io</a> ◇ 📧 sgxu[at]ncsu.edu
 </div> 
 
 
 ## Summary
 
-Currently a third year PhD candidate in Statistics. Research interests include **Bayesian Inference**, **Quantile Regression** and **Machine Learning**. 
-Adept in R, SAS and Python with experience in leading multiple research/analytical projects. Excellent interpersonal and communicating skills as well as 
-proven academic writing skills. 
+Fifth year Ph.D. student in Statistics. Research interests include Bayesian Non-parametrics, Causal Inference, and Anomaly Detection. 
+Adept in R, Python and SAS with experience in leading multiple projects. Excellent verbal, communication and writing skill.
 
 
 ## Education
@@ -22,7 +21,7 @@ proven academic writing skills.
 __North Carolina State University | Raleigh, NC__
 
 -     Doctor of Philosophy: Statistics
--     _**Advisor**_: Brian Reich
+-     _**Advisor**_: Dr. Brian Reich
 -     Member of American Statistical Association
 
 `Aug. 2013 - Jun. 2017`
@@ -32,74 +31,86 @@ __University of Washington | Seattle, WA__
 - Minors: Applied Mathematics, Mathematics
 - Dean's list 2015 - 2017
 
+
 ## Skills
 
-R/Rstudio, SAS/IML, Python, Julia, Matlab, LaTeX, Markdown
+- R, Python (NumPy, pandas, scikit-learn, TensorFlow), SQL, SAS, Julia, MATLAB, Java, Git, LaTeX
+
 
 ## Certificate
 
+- • Neural Networks and Deep Learning
+- • Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+- • Convolutional Neural Networks
+- • Sequence Models
 - • Certified Specialist: Base programming using SAS 9.4
 - • Certified Professional: Advanced programming using SAS 9.4
-
 
 
 ## Experience
 
 ### Career
 
+`Jun. 2021 - Aug. 2021`
+__Data Scientist Intern, AI Model Development | Wells Fargo | Remote__
+
+- • Built a supervised classifier to detect human/bot login attempt from blacklisted IPs.
+- • Researched on cutting-edge methods for highly imbalanced classification (2% event rate).
+- • Implemented **Random Undersampling Boosting** model that improves out-of-time KPI by 20%.
+
 `May 2019 - Present`
-__Internet of Things Intern | SAS Institute | Cary, NC__
+__Machine Learning Intern, Internet of Things | SAS Institute | Cary, NC__
 
-- • Researching on video foreground extraction using **Robust Principal Component Analysis (RPCA)**.
-- • Collaborating with NASA and applied RPCA on detecting wildfire in Amazon from satellite images.
-- • Wrote Python code to visualize and process hyperspectral images.
-
-`Aug. 2019 - Present`
-__Head Teaching Assistant | North Carolina State University | Raleigh, NC__
-
-- • Supervising 19 instructors and graders for an introductory statistics course.
-- • Maintaining course website accessed by over 500 undergraduate students.
+- • Research on Machine Learning algorithms for analyzing streaming image data.
+- • Apply online outlier detection algorithms to video surveillance and remote sensing problems.
+- • Participate in DevOps of SAS procedures for statistical monitoring.
 
 `May 2019 - Jul.2019`
-__Biostatistics Intern | UNC Center for AIDS Research | Chapel Hill, NC__
+__Quantitative Intern, Biometrics | UNC Center for AIDS Research | Chapel Hill, NC__
 
-- • Researched on transporting outcomes from randomized trials to target population using bootstrap multiple imputation.
-- • Analyzed trial and cohort data to investigate correlation between suicidal thoughts and Efavirenz intake.
-- • Co-authored a manuscript and wrote R code for the analysis.
+- • Researched on transporting outcomes from randomized trials to target population using **Bootstrap Multiple Imputation**.
+- • Investigated the causal effect of Efavirenz intake, an HIV antiviral, on development of suicidal thoughts.
+- • Co-authored a journal paper and wrote R pipeline for the analysis.
 
-`Aug. 2017 - May 2019`
-__Lecturer | North Carolina State University | Raleigh, NC__
+`Aug. 2017 - May 2021`
+__Graduate Student Lecturer | North Carolina State University | Raleigh, NC__
 
 - • Taught 3 sessions (35 students each) of undergraduate statistics course.
 - • Delivered entry-level concepts to students from various backgrounds with little or no exposure to statistics.
-- • Revamped course structure to help students learn in a more efficient and interactive way. 
 
 
 ### Research
 
-`Jan. 2019 - Present`
-__Simultaneous Quantile Regression with Bayesian Neural Network__
+`Jan. 2021 - Present`
+__Bayesian Non-parametric Estimation of Causal Quantile Effects__
 
-- • A thesis project focusing on **Bayesian nonparametric** method for simultaneous quantile estimation.
-- • Proposed innovative model that combines **monotonic spline** and **ReLU network**.
-- • Wrote Hamiltonian Monte Carlo simulation code using Python, R and STAN.
+- • Proposed a novel approach for causal inference on quantiles in the presence of many confounders.
+- • Approximated high-dimensional conditional outcome distribution using Bayesian Neural Network.
 
-`May 2019 - Aug.2019`
-__Multivariate anomaly detection using Canonical Variate Analysis__
+`Sep. 2020 - Present`
+__Online Blind Separation of High Frequency Sources__
 
-- • Investigated modern methods on real-time process monitoring and anomaly detection.
-- • Researched on classical and kernel canonical variate analysis (CVA) and wrote prototype code in SAS/IML.
-- • Achieved over 98% detection rate on two chemical process control benchmark datasets.
+- • Researched on online and batch algorithms of independent component analysis (ICA). 
+- • Applied ICA to recover source signals from mixtures, such as speech, music, and image data.
+- • Implemented an ICA-based statistic for time series change point detection.
 
-`Aug. 2018 - Dec. 2018`
-__Robust Bayesian Forecasting with State-Space models__
+`Sep. 2019 - Aug. 2020`
+__Online Unsupervised Wildfire Detection using Satellite Images__
 
-- • Leader of a group project targeting innovative Bayesian imputation and forecasting method for water usage data.
-- • Conducted extensive literature review on Bayesian time series and hierarchical modelling. 
-- • Proposed a method that is proven to be more flexible and can better forecast non-gaussian time series.
+- • Proposed novel wildfire detection and cloud masking algorithms for multispectral satellite imagery. 
+- • Successfully monitored recent California wildfires, achieving competitive precision.  
+- • Co-authored a conference paper and wrote Python pipeline for the analysis.
+
+`Jan. 2019 - Aug. 2021`
+__Bayesian Non-parametric Quantile Process Regression__
+
+- • Proposed a novel method for simultaneous estimation of non-crossing, non-linear quantile curves.
+- • Implemented model agnostics tool to extract marginal quantile effects from black-box regression model.
+- • Identified pregnancy-related factors that are influential on low and high birth weight.
+
 
 <!-- ### Footer
 
-Last updated: Oct 2019 -->
+Last updated: Aug. 2021 -->
 
 
